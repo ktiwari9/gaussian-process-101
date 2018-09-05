@@ -1,6 +1,6 @@
 # Exposure to Gaussian Process (GPs)
 
-This repository houses the Ipython Notebooks for implementation of via Gaussian Process which serves complement the contents of the website hosted [here](). To access, open a local copy via Binder (Docker). This will allow you to run the notebook shells and modify the code to your liking.
+This repository houses the Ipython Notebooks for implementation of via Gaussian Process which serves complement the contents of the website hosted [here](https://sites.google.com/view/exposure-to-gp/home). To access, open a local copy via Binder (Docker). This will allow you to run the notebook shells and modify the code to your liking.
 
 Do leave a [feedback](https://sites.google.com/view/exposure-to-gp/feedback) to let me know what you feel about the contents and if there are any modifications/typos that need to be taken care of. Additionally, if you wish to pool resources by contributing to this journey, I would be more than happy if you could fill out this [work request form](https://sites.google.com/view/exposure-to-gp/feedback/contribute) to reach out to me.
 
