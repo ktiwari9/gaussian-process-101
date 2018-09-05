@@ -1,4 +1,4 @@
 ipython
 matplotlib
-scipy.optimize
+scipy
 numpy
