@@ -6,3 +6,4 @@ Do leave a [feedback](https://sites.google.com/view/exposure-to-gp/feedback) to 
 
 I hope that after reading through the contents, you would gain some clarity as to what GPs really are. It is my understanding that the best way to learn is by getting your hands dirty. So, get right to it !!
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gl/ktiwari9%2Fgaussian-process/master?urlpath=https%3A%2F%2Fgitlab.com%2Fktiwari9%2Fgaussian-process%2Fblob%2Fmaster%2FGP_1D.ipynb)
